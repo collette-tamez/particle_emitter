@@ -1,1 +1,3 @@
-emitter.js
+function emitter(){
+	console.log('emitter activated');
+}
